@@ -24,5 +24,3 @@ jogo:"World of Warcraft"
     )
   }
 }
-//com uma arrow function 3 modais 1 menu, 1 mensagem  e 1 imagem
-// modal menu hamburguer e imagem
